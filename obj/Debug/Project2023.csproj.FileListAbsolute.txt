@@ -1,0 +1,17 @@
+C:\Users\ASUS\source\repos\Project2023\Project2023\bin\Debug\Project2023.exe.config
+C:\Users\ASUS\source\repos\Project2023\Project2023\bin\Debug\Project2023.exe
+C:\Users\ASUS\source\repos\Project2023\Project2023\bin\Debug\Project2023.pdb
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.Admin.resources
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.Employeecs.resources
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.Form1.resources
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.Form2.resources
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.Login.resources
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.Manager.resources
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.ManagerLogin.resources
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.Order.resources
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.Properties.Resources.resources
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.exe
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.pdb
+C:\Users\ASUS\source\repos\Project2023\Project2023\obj\Debug\Project2023.csproj.AssemblyReference.cache
